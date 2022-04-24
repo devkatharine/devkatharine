@@ -1,7 +1,7 @@
 ### Olá, sou Katharine Fernandes 👋
 
-- 🔭 Atualmente trabalhando com Front-end
-- 🌱 Estudando JavaScript
+- 🔭 Desenvolvedora Front-end
+- 💻 HTML | CSS | JavaScript
 - 😄 Pronouns: ela/dela
 
 <div align="center">
